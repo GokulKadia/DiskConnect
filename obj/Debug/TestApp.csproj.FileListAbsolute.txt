@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TestApp\bin\Debug\ImagingUpdate.exe.config
+C:\Users\Admin\source\repos\TestApp\bin\Debug\ImagingUpdate.exe
+C:\Users\Admin\source\repos\TestApp\bin\Debug\ImagingUpdate.pdb
+C:\Users\Admin\source\repos\TestApp\obj\Debug\ImagingUpdate.exe
+C:\Users\Admin\source\repos\TestApp\obj\Debug\ImagingUpdate.pdb
